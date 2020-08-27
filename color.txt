@@ -1,0 +1,4 @@
+color : #f05945
+color darken : #ee4832
+color lighten : #eb7565
+color previous : #96bb7c

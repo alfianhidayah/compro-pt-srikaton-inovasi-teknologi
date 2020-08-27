@@ -1,0 +1,50 @@
+Pengadaan perangkat
+komputer dan perangkat
+pendukung.
+
+Pengadaan perangkat
+telekomunikasi
+
+Pengadaan software
+komputer
+
+Pengadaan alat tulis
+kantor (ATK)
+
+Penyedia jasa perakitan
+komputer dan pembuatan
+software aplikasi.
+
+Instalasi
+Videotron
+
+Instalasi kabel fiber optik
+indoor dan outdoor
+
+Instalasi RFID dan ERP
+
+===================
+
+Pengadaan perangkat
+komputer, software komputer, perangkat
+telekomunikasi,Videotron, RFID dan ERP >>>> Hardware and Software
+
+Pengadaan software
+Aplikasi >>>>> Software Development 
+
+Pengadaan alat tulis
+kantor (ATK) >>> OFFICE SUPPLIES AND STATIONARY
+
+
+Instalasi kabel fiber optik
+indoor dan outdoor >>>> Optical Fiber Installation
+
+
+=============
+MENU 
+1. Home >> profil perusahaan secara umum
+2. About >> Profil Perusahaan secara detail => sejarah, Visi misi, azas perusahaan
+3. Services >> layanan yang diberikan 
+4. Portfolio >> riwayat kerjasama dengna client
+5. Contact >> kontak 
+
